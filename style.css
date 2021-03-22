@@ -1,0 +1,95 @@
+style.css
+body {
+    padding: 0 30px;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: "Georgia", serif;
+    color: #991414;
+    }
+    
+    h1 {
+    text-align: center;
+    color: white;
+    background: #3108a3;
+    }
+    
+    div {
+    font-size: 20px;
+    border: 3px solid #12016e;
+    margin: 10px;
+    display: inline-block;
+    text-align: center
+    }
+    
+    header {
+    background: #6bb7ff;
+    height: 50px;
+    margin-bottom: 10px;
+    }
+    
+    aside {
+    height: 500px;
+    width: 40%;
+    float: left;
+    }
+    section {
+    float: left;
+    height: 500px;
+    width: 60%;
+    text-align: center;
+    background-color: midnightblue;
+    }
+    
+    article {
+    text-align: center;
+    color: white;
+    background: #3108a3;
+    }
+    
+    
+    
+    img {
+    text-align: right;
+    }
+    
+    
+    aside {
+    background-color: cornflowerblue;
+    }
+    
+    p {
+    background-color: rgb(111, 111, 218);
+    
+    
+    }
+    
+    footer {
+    height: 50px;
+    text-align: center;
+    background-color: rgb(73, 62, 235);
+    
+    }
+    img {
+    border: 2px solid #ffffff;
+    }
+    
+    li {
+    line-height: 200%;
+    font-size: 30px;
+    border: 2px solid #0004ff;
+    }
+    ul {
+        font: 14px Verdana, Geneva, sans-serif;
+
+}
+    ul li {
+    display : inline-block;
+    width : 200px;
+    border : 1px solid #f7f5f3;
+    display : inline;
+    zoom : 1;
+    }
+    .sidebar {
+
+    background: #0c33b4;
+    }
